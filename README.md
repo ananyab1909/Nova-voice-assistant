@@ -24,7 +24,7 @@ A fast, versatile voice assistance that can handle daily tasks seemlessly.
 ## Requirements
 - API keys for __Openweather__ and __Gemini__.
 - A new application on the spotify developer portal, and the __client id__, __client secret__ and __redirect uri__.
-- __WhatsApp Web__ must be logged in on default browser for _Cynthia_ to access it
+- __WhatsApp Web__ must be logged in on default browser for _Nova_ to access it
 
 ## About Me
 Hello, my name is Ananya Biswas. I am an Engineering Student at [Kalinga Institute of Industrial Technology](https://kiit.ac.in/). I enjoy making teeny tiny projects in
