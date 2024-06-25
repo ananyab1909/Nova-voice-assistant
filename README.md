@@ -11,8 +11,8 @@ A fast, versatile voice assistance that can handle daily tasks seemlessly.
 ## Getting Started
 - `$ git clone https://github.com/ananyab1909/Nova-voice-assistant.git` - clone this project to your computer.
 - `$ cd Nova-voice-assistant` - go inside the project directory.
-- Run `pip install -r \requirement.txt` to setup dependencies and virtual environment.
-- `Python ./main.py` to execute the python file.
+- Run `pip install -r ./requirement.txt` to setup dependencies and virtual environment.
+- `python ./main.py` to execute the python file.
 - To deactivate the virtual environment, run `deactivate`.
 
 ## APIs and Services
