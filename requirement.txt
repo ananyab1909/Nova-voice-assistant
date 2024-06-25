@@ -1,0 +1,7 @@
+google.generativeai 
+SpeechRecognition
+emoji
+texttospeech_v1 from google-cloud
+pywhatkit
+pyautogui
+spotipy
